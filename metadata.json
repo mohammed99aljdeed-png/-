@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA Orders Manager",
+  "description": "نظام داخلي شخصي متطور لإدارة وتنظيم طلبات الزبائن لمتجر NEXORA للألعاب والكمبيوتر مع حفظ دائم وتتبع دقيق وحسابات مالية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
